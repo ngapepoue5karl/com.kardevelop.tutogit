@@ -4,5 +4,5 @@
 
 '''bash
 git init
-git remote add origin 22https_du_repo
+git remote add origin https_du_repo
 '''
